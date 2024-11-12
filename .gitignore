@@ -1,0 +1,45 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos de Log
+*.log
+*.out
+*.err
+
+# Ambiente Virtual
+venv/
+env/
+.venv/
+
+# Arquivos de Configuração do Sistema
+*.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+
+
+# Dados temporários e caches de treinamento
+*.tfrecord
+checkpoint
+train_log/
+cache/
+__pycache__/
+tmp/
+
+# Arquivos temporários gerados pelo Jupyter
+.ipynb_checkpoints/
+
+
+
+
+# Arquivos do TensorBoard
+logs/
+
+
+CamVid/
+
+training.ipynb/
